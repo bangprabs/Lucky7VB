@@ -1,0 +1,12 @@
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\bin\Debug\MyLucky7.exe.config
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\bin\Debug\MyLucky7.exe
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\bin\Debug\MyLucky7.pdb
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\bin\Debug\MyLucky7.xml
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\obj\Debug\MyLucky7.vbprojAssemblyReference.cache
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\obj\Debug\MyLucky7.Form1.resources
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\obj\Debug\MyLucky7.Resources.resources
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\obj\Debug\MyLucky7.vbproj.GenerateResource.cache
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\obj\Debug\MyLucky7.vbproj.CoreCompileInputs.cache
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\obj\Debug\MyLucky7.exe
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\obj\Debug\MyLucky7.xml
+E:\Materi Kuliah\Semester 3\Prak. Pemrog Visual\MyLucky7\MyLucky7\obj\Debug\MyLucky7.pdb
